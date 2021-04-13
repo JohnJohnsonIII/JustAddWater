@@ -1,0 +1,21 @@
+{
+    "rootdir": "/home/pi/refactored/",
+    "cameras":[
+        {
+            "name": "PiCamera",
+            "cameratype": "picamera",
+            "savedir": "piwebcam/",
+            "resolution": "( 1280,720 )"
+        },
+        {
+            "name": "USBWebCamera2",
+            "cameratype": "usbcamera",
+            "brightness": "50%",
+            "device": "/dev/video2",
+            "savedir": "usbwebcam2/",
+            "resolution": "1280x720"
+        }
+    ],
+    "blendeddir": "blended/",
+    "archivedir": "archivedir/"
+}
