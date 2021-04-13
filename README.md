@@ -8,3 +8,5 @@ dailysweep.py
 Configuration data for the scripts can be found in:
 settings.json
 credentials.json
+
+Detailed information of setup can be found in Project.pdf
